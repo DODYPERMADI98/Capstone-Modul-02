@@ -28,4 +28,4 @@ Market saturation and opportunities for new listings in various districts.
 **Conclusions**
 Detail the implications of your findings. What do these insights mean for stakeholders such as current or prospective Airbnb hosts, real estate investors, or policymakers? How can they leverage this information for decision-making?
 
-Here is the Visualization to understand the data analysis from Airbnb Listings Bangkok: https://public.tableau.com/views/AirbnbListingsBangkok-DodyPermadi/Story4?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+Here is the Visualization to understand the data analysis from Airbnb Listings Bangkok: https://public.tableau.com/app/profile/dody.permadi/viz/AirbnbListingsBangkok-DodyPermadi/Story1_1
